@@ -1,0 +1,16 @@
+{
+  "name": "goldRate",
+  "description": "Gold rate in India",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "request": "*",
+    "request-promise": "*",
+    "nodemon": "*",
+    "cheerio":"*"
+  }
+}
